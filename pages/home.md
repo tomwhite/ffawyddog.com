@@ -7,7 +7,10 @@ eleventyNavigation:
   key: Home
   order: 0
 ---
-
 # Welcome
 
-This site has information about the Ffawyddog: the plants and animals you might see, as well as the history of the people who lived here.
+You probably arrived here by following the instructions in the Ffawyddog phone box.
+
+This site has information about the Ffawyddog: the [plants and animals](/nature/index.html) you might see, as well as the [history](/history/index.html) of the people who lived here.
+
+We also have a [daily photo](/photos/index.html) of the Ffawyddog on our Instagram account.
