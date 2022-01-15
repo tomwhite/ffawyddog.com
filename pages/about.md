@@ -1,6 +1,8 @@
 ---
 title: About us
-metaDescription: This is a sample meta description. If one is not present in your page/post's front matter, the default metadata.desciption will be used instead.
+metaDescription: This is a sample meta description. If one is not present in
+  your page/post's front matter, the default metadata.desciption will be used
+  instead.
 date: 2017-01-01T00:00:00.000Z
 permalink: /about/index.html
 eleventyNavigation:
@@ -10,10 +12,10 @@ eleventyNavigation:
 Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
 
 Add a few line breaks in here to test:-
-Capitalize  
-on  
-low  
-hanging  
+Capitalize\
+on\
+low\
+hanging\
 fruit  
 
 ## Our services
@@ -27,7 +29,3 @@ Capitalize on low hanging fruit to identify a ballpark value added activity to b
 #### Management frameworks
 
 Podcasting operational change management inside of workflows to establish a framework. Taking seamless key performance indicators offline to maximise the long tail. Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
-
-##### Regulatory convergence
-
-Collaboratively administrate empowered markets via plug-and-play networks. Dynamically procrastinate B2C users after installed base benefits. Dramatically visualize customer directed convergence without revolutionary ROI. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
