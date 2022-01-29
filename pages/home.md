@@ -14,3 +14,5 @@ You probably arrived here by following the instructions in the Ffawyddog phone b
 This site has information about the Ffawyddog: the [plants and animals](/nature/index.html) you might see, as well as the [history](/history/index.html) of the people who lived here.
 
 We also have a [daily photo](/photos/index.html) of the Ffawyddog on our [Instagram account](https://www.instagram.com/ffawyddog_phone_box/).
+
+![Fern spores](/static/img/ba1a5d47-d7b9-42ae-bd48-c907c5947f74.jpg)
